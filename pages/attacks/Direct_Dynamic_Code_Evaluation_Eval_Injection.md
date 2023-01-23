@@ -113,6 +113,7 @@ f.close
 Set f = nothing
 Set fso = Nothing
 %>
+
 <h1>List of logged users:</h1>
 <pre>
 <%

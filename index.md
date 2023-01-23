@@ -68,6 +68,7 @@ Click the triangle (or other control/character) to the left of the following hea
   {% endfor %}
 
 {% if display %}
+
 <li><a href='{{ site.url }}{{ site.baseurl }}{{ page.url }}'>{{ page.title }}</a>{% if page.author %} by {{ page.author }}{% endif %}</li>
 {% endif %}
 {% endfor %}

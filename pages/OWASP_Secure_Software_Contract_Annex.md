@@ -192,7 +192,7 @@ for why this software should be trusted to do what it claims it does.
 
 ### 1\. INTRODUCTION
 
-This Annex is made to **********\_**********
+This Annex is made to ****\*\*****\_****\*\*****
 ("Agreement") between Client and Developer. Client and Developer agree
 to maximize the security of the software according to the following
 terms.

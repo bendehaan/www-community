@@ -181,57 +181,6 @@ If you have a new Idea regarding Iris(Meta searcher), let us chat.
 
 - [Saeed Dehqan](mailto:saeed.dehghan@owasp.org)
 
-### [WrongSecrets](https://owasp.org/www-project-wrongsecrets/)
-
-![Preferred for "Medium" GSoC 2023 project](<https://img.shields.io/badge/medium%20size%20(~175h)-preferred-green>)
-![Possible for "Large" GSoC 2023 project](<https://img.shields.io/badge/large%20size%20(~350h)-possible-yellow>)
-
-##### Explanation of Ideas
-
-- [Revise WrongSecrets frontend](https://github.com/OWASP/wrongsecrets/issues/198) ![Difficulty: Medium](https://img.shields.io/badge/difficulty-easy-green)
-- [Port WrongSecrets CTF to Azure](https://github.com/OWASP/wrongsecrets-ctf-party/issues/156) ![Difficulty: Medium](https://img.shields.io/badge/difficulty-medium-orange)
-- [Port WrongSecrets CTF to GCP](https://github.com/OWASP/wrongsecrets-ctf-party/issues/157) ![Difficulty: Medium](https://img.shields.io/badge/difficulty-medium-orange)
-- [Create Nomad support](https://github.com/OWASP/wrongsecrets/issues/299) ![Difficulty: Hard](https://img.shields.io/badge/difficulty-hard-red)
-- [Improve WrongSecrets CTF helm chart and release process](https://github.com/OWASP/wrongsecrets-ctf-party/issues/86) ![Difficulty: Medium](https://img.shields.io/badge/difficulty-medium-orange)
-
-##### Getting Started
-
-Repositories:
-
-- [WrongSecrets](https://github.com/owasp/wrongsecrets)
-- [WrongSecrets CTF](https://github.com/owasp/wrongsecrets-ctf-party)
-
-Please use the repositories' issue tracker, GitHub discussions, and don't forget to read the [contributing guide](https://github.com/OWASP/wrongsecrets/blob/master/CONTRIBUTING.md).
-
-#### Expected Results
-
-Depending on the project:
-
-- A revised WrongSecrets frontend
-- Azure CTF support
-- GCP CTF support
-- WrongSecrets Nomad support
-- A helm chart that's up to industry standards with an appropriate release pipeline
-
-Reach out to us on Slack to discuss these and other ideas!
-
-- Please submit your proposal on the WrongSecrets GitHub discussion board or issue tracker to make it easier for the team to review and give feedback.
-- Team meetings are every friday 8.30 CET. Invite will be shared once GSoC application is approved.
-
-#### Knowledge Prerequisites
-
-- Terraform for infra as code
-- Java for application
-- Java/HTML/JavaScript/CSS for application frontend
-- Kubernetes/helm for backend
-- Azure (if extending Azure support)
-- GCP (if extending GCP support)
-- Nomad for backend (if building Nomad support)
-
-##### Mentors
-
-- [Ben de Haan](mailto:ben.dehaan@owasp.org)
-
 ### [OWASP SecureTea](https://securetea.org/)
 
 The OWASP SecureTea Project provides a one-stop security solution for various devices (personal computers / servers / IoT devices).

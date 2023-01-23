@@ -188,11 +188,11 @@ If you have a new Idea regarding Iris(Meta searcher), let us chat.
 
 ##### Explanation of Ideas
 
-- Revise WrongSecrets frontend ![Difficulty: Medium](https://img.shields.io/badge/difficulty-easy-green)
-- Port WrongSecrets CTF to Azure ![Difficulty: Medium](https://img.shields.io/badge/difficulty-medium-orange)
-- Port WrongSecrets CTF to GCP ![Difficulty: Medium](https://img.shields.io/badge/difficulty-medium-orange)
-- Create Nomad support ![Difficulty: Hard](https://img.shields.io/badge/difficulty-hard-red)
-- Improve WrongSecrets CTF helm chart and release process ![Difficulty: Medium](https://img.shields.io/badge/difficulty-medium-orange)
+- [Revise WrongSecrets frontend](https://github.com/OWASP/wrongsecrets/issues/198) ![Difficulty: Medium](https://img.shields.io/badge/difficulty-easy-green)
+- [Port WrongSecrets CTF to Azure](https://github.com/OWASP/wrongsecrets-ctf-party/issues/156) ![Difficulty: Medium](https://img.shields.io/badge/difficulty-medium-orange)
+- [Port WrongSecrets CTF to GCP](https://github.com/OWASP/wrongsecrets-ctf-party/issues/157) ![Difficulty: Medium](https://img.shields.io/badge/difficulty-medium-orange)
+- [Create Nomad support](https://github.com/OWASP/wrongsecrets/issues/299) ![Difficulty: Hard](https://img.shields.io/badge/difficulty-hard-red)
+- [Improve WrongSecrets CTF helm chart and release process](https://github.com/OWASP/wrongsecrets-ctf-party/issues/86) ![Difficulty: Medium](https://img.shields.io/badge/difficulty-medium-orange)
 
 ##### Getting Started
 
